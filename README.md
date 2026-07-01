@@ -10,7 +10,7 @@
 - PNG · JPG · WebP로 저장 (배경 투명/색상 지정)
 
 ## 사용법
-`dimension.html`을 브라우저로 열면 됩니다. GitHub Pages로 배포하면 `https://<아이디>.github.io/<저장소>/dimension.html` 주소로 바로 사용할 수 있어요.
+`dimension.html`을 브라우저로 열면 됩니다.
 
 ## 라이선스
 글꼴: [Pretendard](https://github.com/orioncactus/pretendard) (SIL Open Font License 1.1)
